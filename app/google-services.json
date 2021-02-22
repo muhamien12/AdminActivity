@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "959176635964",
+    "project_id": "serkom-ade1d",
+    "storage_bucket": "serkom-ade1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959176635964:android:2501c9f2a4e37412297539",
+        "android_client_info": {
+          "package_name": "com.kamisehat.adminactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959176635964-h5730mneot2k09ob8n00kagl6mhoagsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYMYL4efU0dCqMCP8kvJBK_E7MHCslKsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959176635964-h5730mneot2k09ob8n00kagl6mhoagsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959176635964:android:f905516937602234297539",
+        "android_client_info": {
+          "package_name": "com.kamisehat.serkom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959176635964-h5730mneot2k09ob8n00kagl6mhoagsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYMYL4efU0dCqMCP8kvJBK_E7MHCslKsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959176635964-h5730mneot2k09ob8n00kagl6mhoagsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
